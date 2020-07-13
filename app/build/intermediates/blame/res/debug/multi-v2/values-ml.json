@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Projeler\\Notification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml\\values-ml.xml",
+            "outputFile": "C:\\Yedek\\Projeler\\Notification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml\\values-ml.xml",
             "map": [
                 {
                     "source": "C:\\Users\\kerem\\.gradle\\caches\\transforms-2\\files-2.1\\5b454e4f1a30a31f78d2352c725b41cb\\core-1.1.0\\res\\values-ml\\values-ml.xml",

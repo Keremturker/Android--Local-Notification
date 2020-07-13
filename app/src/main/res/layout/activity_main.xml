@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/basicnotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Basic Notification"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/clickablenotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Clickable Notification"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/actionnotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Action Button Notification"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/directreplynotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Direct Reply Notification"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/expandabletextnotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Expandable Text Notification"
+        android:textAllCaps="false" />
+<Button
+        android:id="@+id/expandablepicturenotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Expandable Picture Notification"
+        android:textAllCaps="false" />
+<Button
+        android:id="@+id/progressnotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="ProgressBar Notification"
+        android:textAllCaps="false" />
+<Button
+        android:id="@+id/customnotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="Custom Notification"
+        android:textAllCaps="false" />
+
+</LinearLayout>

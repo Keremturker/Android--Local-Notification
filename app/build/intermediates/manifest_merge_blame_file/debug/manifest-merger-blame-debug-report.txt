@@ -6,50 +6,50 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml
+8-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml
+9-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:5:5-28:19
+11-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:5:5-28:19
 12        android:allowBackup="true"
-12-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.1.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\5b454e4f1a30a31f78d2352c725b41cb\core-1.1.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:7:9-43
+15-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:8:9-41
+16-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:9:9-54
+17-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:10:9-35
+18-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:11:9-40
+20-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:11:9-40
 21        <receiver android:name="com.keremturker.notification.Receiver.NotificationReceiver" />
-21-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:14:9-67
-21-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:14:19-64
+21-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:14:9-67
+21-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:14:19-64
 22        <receiver android:name="com.keremturker.notification.Receiver.DirectReplyReceiver" />
-22-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:16:9-66
-22-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:16:19-63
+22-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:16:9-66
+22-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:16:19-63
 23        <receiver android:name="com.keremturker.notification.Receiver.CustomNotificationReceiver" />
-23-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:18:9-73
-23-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:18:19-70
+23-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:18:9-73
+23-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:18:19-70
 24
 25        <activity android:name="com.keremturker.notification.MainActivity" >
-25-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:21:9-27:20
-25-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:21:19-47
+25-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:21:9-27:20
+25-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:21:19-47
 26            <intent-filter>
-26-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:22:13-26:29
+26-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:22:13-26:29
 27                <action android:name="android.intent.action.MAIN" />
-27-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:23:17-69
-27-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:23:25-66
+27-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:23:17-69
+27-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:23:25-66
 28
 29                <category android:name="android.intent.category.LAUNCHER" />
-29-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:25:17-77
-29-->C:\Projeler\Notification\app\src\main\AndroidManifest.xml:25:27-74
+29-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:25:17-77
+29-->C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:25:27-74
 30            </intent-filter>
 31        </activity>
 32    </application>

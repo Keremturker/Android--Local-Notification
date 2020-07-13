@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\0c59e42970579c9c36ddd604ba39521e\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\8ae9e26c5c8c9a000acc0ed16b5d86cd\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -26,25 +26,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kerem\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\117237b384d1d41655b445f8ab3449a2\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\0061becc098e44b855ca034fb1802bc0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\a3bfb016d41c70cb77a4f9afd84ecb49\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:5:5-28:19
+ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\4865d0bb420eeb38e1193023e7c09d7a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.1.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\5b454e4f1a30a31f78d2352c725b41cb\core-1.1.0\AndroidManifest.xml:24:5-89
@@ -54,47 +54,47 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ke
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\5b454e4f1a30a31f78d2352c725b41cb\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:11:9-40
 receiver#com.keremturker.notification.Receiver.NotificationReceiver
-ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:14:9-67
+ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:14:9-67
 	android:name
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:14:19-64
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:14:19-64
 receiver#com.keremturker.notification.Receiver.DirectReplyReceiver
-ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:16:9-66
+ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:16:9-66
 	android:name
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:16:19-63
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:16:19-63
 receiver#com.keremturker.notification.Receiver.CustomNotificationReceiver
-ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:18:9-73
+ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:18:9-73
 	android:name
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:18:19-70
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:18:19-70
 activity#com.keremturker.notification.MainActivity
-ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:21:9-27:20
+ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:21:9-27:20
 	android:name
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:21:19-47
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:21:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml:25:27-74
 uses-sdk
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\0c59e42970579c9c36ddd604ba39521e\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\0c59e42970579c9c36ddd604ba39521e\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\8ae9e26c5c8c9a000acc0ed16b5d86cd\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
@@ -139,13 +139,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kerem\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\0061becc098e44b855ca034fb1802bc0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\a3bfb016d41c70cb77a4f9afd84ecb49\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kerem\.gradle\caches\transforms-2\files-2.1\a3bfb016d41c70cb77a4f9afd84ecb49\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
-INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
+INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
-		ADDED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Projeler\Notification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Yedek\Projeler\Notification\app\src\main\AndroidManifest.xml

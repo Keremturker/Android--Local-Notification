@@ -1,7 +1,7 @@
-#Fri Nov 01 11:13:29 EET 2019
-base.0=C\:\\Projeler\\Notification\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Mon Jul 13 17:08:20 EET 2020
+base.0=C\:\\Yedek\\Projeler\\Notification\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Projeler\\Notification\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=C\:\\Yedek\\Projeler\\Notification\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
